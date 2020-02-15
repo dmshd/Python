@@ -1,5 +1,7 @@
 # The boring agenda
 
+http://gorunning.be/calendrier_fr.php
+
 The idea is to make a good looking and fun to navigate agenda of the runs.
 A problem I encoutered on the current listing is : there is no way to look for runs happening near a position. Imposible to specify 'show me the runs max 15km near this post code (by example). You can only look for a post code and the website returns only the events corresponding exactly to the criteria. We would like a "You might be interested by" functionnality.
 
