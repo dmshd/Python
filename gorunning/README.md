@@ -17,7 +17,16 @@ Under that form stands a table with columns listing events by these criterias.
 
 I could simply email the webmaster and ask for a excel file to experiment or an API endpoint if there is one but that would be less fun. (Maybe later)
 
-Let's investigate if we can scran the data with Python.
+Let's investigate if we can scrap the data with Python.
+
+#### 01-webbrowser.py
+is a simple experimentation (I'm following 'borin stuff with python' tutorial) about using webbrowser package to open the browser. It's just what it does.
+
+#### 02-get_adress.py
+It' does not do what the name indicate
+`╰─$ python 02-get_adress.py 51 boulevard audent charleroi` opens webbrowser on the specified adress on open street map which is cool.
+
+
 
 
 
