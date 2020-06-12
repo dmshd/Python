@@ -1,4 +1,4 @@
-# The boring agenda
+# BetterGoRunning
 
 http://gorunning.be/calendrier_fr.php
 
