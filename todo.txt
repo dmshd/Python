@@ -1,3 +1,4 @@
- - add VERSION
- - add CHANGELOG.md
+ - add VERSION - find 1 source explaining VERSION best practices
+ - add CHANGELOG.md - copy / paste a good Changelog for example
  - start to scrap some data for BetterGoRunning or iMio-people ( 1 element of each elements listed on site )
+ 
