@@ -2,8 +2,10 @@ Being a Python Web Developer - Practicing time tracker file
 ###########################################################
 
 12 juin 2020 : 120 Min (4 x 25min pomodoro + 20min)
+
 13 juin 2020 : 15min
-13 juin 2020 : 25min
+
+13 juin 2020 : 50 min
 
   Freeze requirements with pip Freeze
   -----------------------------------
@@ -19,3 +21,13 @@ Being a Python Web Developer - Practicing time tracker file
     /home/daniel/.local/share/virtualenvs/Python-r7_9a_Oa
     ➜ pipenv --py  
     /home/daniel/.local/share/virtualenvs/Python-r7_9a_Oa/bin/pythona
+
+  Selenium installation : 
+  -----------------------
+  ➜ pip install selenium
+  ➜ wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
+  ➜ tar -xvzf geckodriver-v0.26.0-linux64.tar.gz 
+    It will produce a file named geckodriver
+    I had to add the location path of geckodriver to my PATH (~/.zshrc)
+  ➜ source ~/.zshrc (obviously)
+  
