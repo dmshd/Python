@@ -30,4 +30,9 @@ Being a Python Web Developer - Practicing time tracker file
     It will produce a file named geckodriver
     I had to add the location path of geckodriver to my PATH (~/.zshrc)
   ➜ source ~/.zshrc (obviously)
+
+  Git credentials change problem
+  ------------------------------
+    I encountered a problem since I updated my git password. I switched to ssh connection to avoid the problem.
+  ➜ git remote set-url origin git@github.com:dmshd/Python.git
   
