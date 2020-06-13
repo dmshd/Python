@@ -1,3 +1,4 @@
 Being a Python Web Developer - Practicing time tracker file
 
-12 juin 2020 : 100 Min (4 x 25min pomodoro)
+12 juin 2020 : 120 Min (4 x 25min pomodoro + 20min)
+13 juin 2020 : 15min
