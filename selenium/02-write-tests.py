@@ -15,9 +15,9 @@ class PythonOrgSearch(unittest.TestCase):
     self.driver = webdriver.Firefox()
 
   # test case method should always start with "test"
-  # the first line inside this method create a local
+  # the first line inside this method cireate a local
   # reerence to the driver object created in setUp()
-  
+
   def test_search_in_python_org(self):
     driver = self.driver
     driver.get("http://www.python.org")
