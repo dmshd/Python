@@ -37,3 +37,18 @@ class PythonOrgSearch(unittest.TestCase):
 
 if __name__ == "__main__":
   unittest.main()
+
+
+
+"""
+
+Python/selenium on  master [!?] via 🐍 3.7.5 took 7s 
+➜ python3 06-page_ojects.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 5.331s
+
+OK
+
+
+"""

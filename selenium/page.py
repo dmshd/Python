@@ -1,3 +1,6 @@
+# used in 06-page_objects.py
+# example from the selenium doc
+
 from elements import BasePageElement
 from locators import MainPageLocators
 
@@ -35,17 +38,3 @@ class SearchResultsPage(BasePage):
     # Probably should search for this text in the specific page
     # element, but as for now it works fine
     return "No results found." not in self.driver.page_source
-
-
-"""
-
-Python/selenium on  master [!?] via 🐍 3.7.5 took 7s 
-➜ python3 06-page_ojects.py
-.
-----------------------------------------------------------------------
-Ran 1 test in 5.331s
-
-OK
-
-
-"""

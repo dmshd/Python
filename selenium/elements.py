@@ -1,3 +1,6 @@
+# used in 06-page_objects.py
+# example from the selenium doc
+
 from selenium.webdriver.support.ui import WebDriverWait
 
 class BasePageElement(object):
