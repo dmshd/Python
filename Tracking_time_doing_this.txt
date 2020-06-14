@@ -1,6 +1,8 @@
 Being a Python Web Developer - Practicing time tracker file
 ###########################################################
 
+Total : 285min (4.75h)
+
 12 juin 2020 : 120 Min (4 x 25min pomodoro + 20min)
 
 13 juin 2020 : 15min
@@ -36,3 +38,9 @@ Being a Python Web Developer - Practicing time tracker file
     I encountered a problem since I updated my git password. I switched to ssh connection to avoid the problem.
   ➜ git remote set-url origin git@github.com:dmshd/Python.git
   
+14 juin 2020 : 100 min (4x 25min pomodoro)
+
+  Selenium
+  --------
+  I'm reading the doc and I write down examples in this repo so my finger will remember them :) 
+
