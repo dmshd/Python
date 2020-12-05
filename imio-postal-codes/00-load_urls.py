@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+"""
+Just open that url
+"""
 
 import webbrowser
 
@@ -13,5 +18,3 @@ for website in urls:
     counter += 1
 
 print(str(counter) + " websites loaded !")
-
-
