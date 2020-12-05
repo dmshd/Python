@@ -4,6 +4,11 @@
 I found that for Charleroi, using 01-get_gestomers_postal_codes.py only
 returns 6000 but it's not correct since there's a lot more cps for charleroi
 Let's extract all the data via another geoservices endpoint.
+
+How to use (example):
+
+python3 03-get-cps-by-commune.py arlon
+
 """
 
 #  http://geoservices.wallonie.be/geolocalisation/rest/getListeLocalites/
